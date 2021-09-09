@@ -22,7 +22,7 @@ Create the Dockerfile for the project
 Build an Image 
 ```bash
 $ docker build --tag julia-tutoiral .
-``
+```
 
 Run the Container
 ```bash
